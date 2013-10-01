@@ -1,4 +1,4 @@
-//Open door Path example
+//Open door Path example for home page
 
 int x = 500;
 int valueX = 0;
